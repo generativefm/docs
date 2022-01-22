@@ -2,7 +2,7 @@
 
 Welcome to the Generative.fm documentation. This information is intended to help anyone learn more about Generative.fm and contribute to it.
 
-For instructions on contributing to Generative.fm, see "[How to contribute](Contributing/how-to-contribute)."
+For instructions on contributing to Generative.fm, see "[How to contribute](Contributing/how-to-contribute.md)."
 
 ## About
 

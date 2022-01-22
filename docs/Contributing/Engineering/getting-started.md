@@ -6,6 +6,6 @@ Each repository should have a file named "README.md" and possibly one named "CON
 
 See also:
 
-- [All repositories](repositories)
+- [All repositories](../../repositories.md)
 - [Engineering issues labeled "good first issue"](https://github.com/search?q=org%3Agenerativefm+org%3Agenerative-music+is%3Aopen+label%3A%22good+first+issue%22+-label%3A%22design%22&type=issues)
 - [All engineering issues](https://github.com/search?l=&q=org%3Agenerativefm+org%3Agenerative-music+is%3Aopen+-label%3Adesign&type=issues)

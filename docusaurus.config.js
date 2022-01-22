@@ -14,8 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'generativefm', // Usually your GitHub org/user name.
-  projectName: '', // Usually your repo name.
-
+  projectName: 'docs', // Usually your repo name.
   presets: [
     [
       'classic',
@@ -24,15 +23,10 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //          editUrl:
+          //           'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -46,7 +40,7 @@ const config = {
       navbar: {
         title: 'Generative.fm documentation',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Generative.fm logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -68,29 +62,33 @@ const config = {
                 to: 'docs/Contributing/code-of-conduct',
               },
               {
+                label: 'GitHub',
+                href: 'https://github.com/generativefm',
+              },
+              {
                 label: 'Discord',
                 href: 'https://discord.gg/3KPnkv2UbP',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/generativefm',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://instagram.com/generativefm',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'More Generative.fm',
             items: [
               {
-                label: 'Generative.fm Play',
+                label: 'Play',
                 href: 'https://play.generative.fm',
               },
               {
-                label: 'Generative.fm Record',
+                label: 'Record',
                 href: 'https://record.generative.fm',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/generativefm',
               },
             ],
           },

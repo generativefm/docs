@@ -2,7 +2,7 @@
 
 Most development and discussion of Generative.fm is hosted on [Github](https://github.com/generativefm). Contributors can create a free Github account to participate.
 
-All contributors implicity agree to the [code of conduct](code-of-conduct) by participating.
+All contributors implicity agree to the [code of conduct](code-of-conduct.md) by participating.
 
 ## Funding
 
