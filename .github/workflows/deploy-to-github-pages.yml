@@ -11,7 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
-        cache: 'npm'
+        with:
+          cache: 'npm'
 
       - name: Install and Build 
         run: |
