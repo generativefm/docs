@@ -2,6 +2,8 @@
 
 Welcome to the Generative.fm documentation. This information is intended to help anyone learn more about Generative.fm and contribute to it.
 
+For instructions on contributing to Generative.fm, see "[How to contribute](Contributing/how-to-contribute)."
+
 ## About
 
 Generative.fm is an open source web platform for generative music. The project is primarily developed by [Alex Bainter](https://alexbainter.com).
