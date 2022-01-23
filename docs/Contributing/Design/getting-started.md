@@ -7,5 +7,5 @@ Design work is tracked with Github issues labeled "[design](https://github.com/s
 See also:
 
 - [All repositories](../../repositories.md)
-- [Design issues labeled "good first issue."](https://github.com/search?q=org%3Agenerativefm+org%3Agenerative-music+is%3Aopen+label%3A%22good+first+issue%22+label%3A%22design%22&type=issues)
-- [All design issues.](https://github.com/search?l=&q=org%3Agenerativefm+org%3Agenerative-music+is%3Aopen+label%3Adesign&type=issues)
+- [Design issues labeled "good first issue"](https://github.com/search?q=org%3Agenerativefm+org%3Agenerative-music+is%3Aopen+label%3A%22good+first+issue%22+label%3A%22design%22&type=issues)
+- [All design issues](https://github.com/search?l=&q=org%3Agenerativefm+org%3Agenerative-music+is%3Aopen+label%3Adesign&type=issues)
