@@ -38,6 +38,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+      },
+      image: 'img/social-image.png',
       navbar: {
         title: 'Generative.fm documentation',
         logo: {
